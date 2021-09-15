@@ -69,7 +69,8 @@ defmodule Desktop.MixProject do
       {:phoenix_live_reload, "~> 1.2"},
       {:gettext, "~> 0.11"},
       {:plug_cowboy, "~> 2.0"},
-      {:jason, "~> 1.0"}
+      {:jason, "~> 1.0"},
+      {:ex_sni, github: "mpotra/ex_sni"}
     ]
   end
 
