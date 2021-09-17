@@ -24,3 +24,6 @@ npm-debug.log
 
 # The directory NPM downloads your dependencies sources to.
 /assets/node_modules/
+
+.vscode
+.editorconfig
