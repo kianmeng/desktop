@@ -70,7 +70,7 @@ defmodule Desktop.MixProject do
       {:gettext, "~> 0.11"},
       {:plug_cowboy, "~> 2.0"},
       {:jason, "~> 1.0"},
-      {:ex_sni, github: "mpotra/ex_sni"}
+      {:ex_sni, github: "elixir-desktop/ex_sni"}
     ]
   end
 
